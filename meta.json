@@ -1,0 +1,296 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-01-20",
+  "season": "January 2026 Champions Meeting",
+  "characters": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "name": "Kitasan Black",
+      "japaneseName": "キタサンブラック",
+      "tier": "S",
+      "bestDistances": ["Long", "Medium"],
+      "bestStyles": ["Nige (Runner)", "Senkou (Leader)"],
+      "uniqueSkill": "Victory Concerto",
+      "metaScore": 9.8,
+      "notes": "Top-tier for long distance. Excellent nige performance with strong unique skill activation."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "name": "Duramente",
+      "japaneseName": "ドゥラメンテ",
+      "tier": "S",
+      "bestDistances": ["Medium", "Long"],
+      "bestStyles": ["Sashi (Betweener)", "Oikomi (Chaser)"],
+      "uniqueSkill": "Raging Storm",
+      "metaScore": 9.7,
+      "notes": "Dominant in medium distance races. Strong final spurt capabilities."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440003",
+      "name": "Satono Diamond",
+      "japaneseName": "サトノダイヤモンド",
+      "tier": "S",
+      "bestDistances": ["Long"],
+      "bestStyles": ["Sashi (Betweener)"],
+      "uniqueSkill": "Glittering Diamond",
+      "metaScore": 9.5,
+      "notes": "Excellent stamina and late-game power. Pairs well with long distance sashi builds."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440004",
+      "name": "Daiwa Scarlet",
+      "japaneseName": "ダイワスカーレット",
+      "tier": "A",
+      "bestDistances": ["Mile", "Medium"],
+      "bestStyles": ["Senkou (Leader)"],
+      "uniqueSkill": "Scarlet Flash",
+      "metaScore": 9.0,
+      "notes": "Strong senkou performance. Reliable in mile races with good skill compatibility."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440005",
+      "name": "Vodka",
+      "japaneseName": "ウオッカ",
+      "tier": "A",
+      "bestDistances": ["Mile", "Medium"],
+      "bestStyles": ["Sashi (Betweener)", "Oikomi (Chaser)"],
+      "uniqueSkill": "Vodka Impact",
+      "metaScore": 8.9,
+      "notes": "Excellent power stats. Strong finisher in competitive races."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440006",
+      "name": "Gold Ship",
+      "japaneseName": "ゴールドシップ",
+      "tier": "A",
+      "bestDistances": ["Long"],
+      "bestStyles": ["Oikomi (Chaser)"],
+      "uniqueSkill": "Wild & Crazy",
+      "metaScore": 8.7,
+      "notes": "Unique playstyle with high variance. Can dominate when RNG is favorable."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440007",
+      "name": "Silence Suzuka",
+      "japaneseName": "サイレンススズカ",
+      "tier": "A",
+      "bestDistances": ["Mile", "Medium"],
+      "bestStyles": ["Nige (Runner)"],
+      "uniqueSkill": "Blazing Overture",
+      "metaScore": 8.8,
+      "notes": "Classic nige runner. Excellent for beginners with consistent performance."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440008",
+      "name": "Mejiro McQueen",
+      "japaneseName": "メジロマックイーン",
+      "tier": "A",
+      "bestDistances": ["Long"],
+      "bestStyles": ["Senkou (Leader)", "Sashi (Betweener)"],
+      "uniqueSkill": "Noble Destination",
+      "metaScore": 8.6,
+      "notes": "Well-rounded long distance runner. Good stamina management."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440009",
+      "name": "Tokai Teio",
+      "japaneseName": "トウカイテイオー",
+      "tier": "B",
+      "bestDistances": ["Medium"],
+      "bestStyles": ["Senkou (Leader)"],
+      "uniqueSkill": "Emperor's Light",
+      "metaScore": 8.2,
+      "notes": "Solid medium distance choice. Fan favorite with decent meta viability."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440010",
+      "name": "Special Week",
+      "japaneseName": "スペシャルウィーク",
+      "tier": "B",
+      "bestDistances": ["Long", "Medium"],
+      "bestStyles": ["Sashi (Betweener)"],
+      "uniqueSkill": "Special Dream",
+      "metaScore": 8.0,
+      "notes": "Versatile runner. Good for various race conditions."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440011",
+      "name": "Grass Wonder",
+      "japaneseName": "グラスワンダー",
+      "tier": "B",
+      "bestDistances": ["Medium", "Mile"],
+      "bestStyles": ["Sashi (Betweener)"],
+      "uniqueSkill": "Eternal Wonder",
+      "metaScore": 7.8,
+      "notes": "Strong sashi performance in medium distance. Reliable pick."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440012",
+      "name": "Haru Urara",
+      "japaneseName": "ハルウララ",
+      "tier": "C",
+      "bestDistances": ["Sprint"],
+      "bestStyles": ["Nige (Runner)"],
+      "uniqueSkill": "Never Give Up!",
+      "metaScore": 6.5,
+      "notes": "Fan favorite despite lower meta viability. Fun to build."
+    }
+  ],
+  "supportCards": [
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440001",
+      "name": "A New Beginning",
+      "characterName": "Kitasan Black",
+      "type": "Speed",
+      "tier": "S",
+      "rarity": 3,
+      "eventBonus": "+20% Speed training",
+      "trainingBonus": "Skill point +15%",
+      "metaScore": 9.9
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440002",
+      "name": "Determination",
+      "characterName": "Satono Diamond",
+      "type": "Stamina",
+      "tier": "S",
+      "rarity": 3,
+      "eventBonus": "+18% Stamina training",
+      "trainingBonus": "Recovery skill unlock",
+      "metaScore": 9.6
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440003",
+      "name": "Winning Shot",
+      "characterName": "Duramente",
+      "type": "Power",
+      "tier": "S",
+      "rarity": 3,
+      "eventBonus": "+20% Power training",
+      "trainingBonus": "Acceleration skill unlock",
+      "metaScore": 9.5
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440004",
+      "name": "Blazing Spirit",
+      "characterName": "Vodka",
+      "type": "Guts",
+      "tier": "A",
+      "rarity": 3,
+      "eventBonus": "+15% Guts training",
+      "trainingBonus": "Sprint skill unlock",
+      "metaScore": 8.8
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440005",
+      "name": "Strategic Mind",
+      "characterName": "Mejiro McQueen",
+      "type": "Wisdom",
+      "tier": "A",
+      "rarity": 3,
+      "eventBonus": "+15% Wisdom training",
+      "trainingBonus": "Position skill unlock",
+      "metaScore": 8.7
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440006",
+      "name": "Gentle Guidance",
+      "characterName": "Silence Suzuka",
+      "type": "Speed",
+      "tier": "A",
+      "rarity": 3,
+      "eventBonus": "+15% Speed training",
+      "trainingBonus": "Nige skill unlock",
+      "metaScore": 8.5
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440007",
+      "name": "Friendship Power",
+      "characterName": "Special Week",
+      "type": "Friend",
+      "tier": "A",
+      "rarity": 3,
+      "eventBonus": "Motivation boost",
+      "trainingBonus": "All stats +5%",
+      "metaScore": 8.9
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440008",
+      "name": "Wild Heart",
+      "characterName": "Gold Ship",
+      "type": "Stamina",
+      "tier": "B",
+      "rarity": 3,
+      "eventBonus": "+12% Stamina training",
+      "trainingBonus": "Unique skill boost",
+      "metaScore": 7.8
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440009",
+      "name": "Racing Dreams",
+      "characterName": "Tokai Teio",
+      "type": "Power",
+      "tier": "B",
+      "rarity": 3,
+      "eventBonus": "+12% Power training",
+      "trainingBonus": "Medium distance skill",
+      "metaScore": 7.6
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440010",
+      "name": "Team Spirit",
+      "characterName": "Daiwa Scarlet",
+      "type": "Group",
+      "tier": "B",
+      "rarity": 3,
+      "eventBonus": "Team bonus +10%",
+      "trainingBonus": "All training +8%",
+      "metaScore": 7.5
+    }
+  ],
+  "metaTips": [
+    {
+      "id": "770e8400-e29b-41d4-a716-446655440001",
+      "title": "Speed is King",
+      "description": "In the current meta, speed stats are the most important. Aim for 1200+ speed for competitive races.",
+      "category": "Training",
+      "icon": "hare.fill"
+    },
+    {
+      "id": "770e8400-e29b-41d4-a716-446655440002",
+      "title": "Nige Dominance",
+      "description": "Nige (front-runner) builds are currently dominant in Champions Meeting. Focus on acceleration skills.",
+      "category": "Strategy",
+      "icon": "figure.run"
+    },
+    {
+      "id": "770e8400-e29b-41d4-a716-446655440003",
+      "title": "Stamina Thresholds",
+      "description": "Long: 1000+, Medium: 800+, Mile: 600+, Sprint: 400+. Don't over-invest in stamina.",
+      "category": "Stats",
+      "icon": "chart.bar.fill"
+    },
+    {
+      "id": "770e8400-e29b-41d4-a716-446655440004",
+      "title": "Skill Priority",
+      "description": "Prioritize: Unique Skill > Gold Recovery > Gold Accel > Position Skills > Debuffs",
+      "category": "Skills",
+      "icon": "star.fill"
+    },
+    {
+      "id": "770e8400-e29b-41d4-a716-446655440005",
+      "title": "Support Card Deck",
+      "description": "Recommended: 3 Speed + 1 Stamina + 1 Power + 1 Friend/Wisdom for balanced training.",
+      "category": "Deck Building",
+      "icon": "rectangle.stack.fill"
+    },
+    {
+      "id": "770e8400-e29b-41d4-a716-446655440006",
+      "title": "Event Farming",
+      "description": "Complete daily missions and save jewels for anniversary events. Rate-ups are crucial for SSR cards.",
+      "category": "Resources",
+      "icon": "gift.fill"
+    }
+  ]
+}
+
